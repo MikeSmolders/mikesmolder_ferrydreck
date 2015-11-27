@@ -9,6 +9,6 @@
     <body>
         
         
-        <p>Hoi dennis, hoe gaat het</p>
+        <p>Hoi, hoe gaat het</p>
     </body>
 </html>
