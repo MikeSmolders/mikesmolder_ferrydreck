@@ -7,8 +7,6 @@
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        
-        
         <p>Hoi, hoe gaat het</p>
     </body>
 </html>
