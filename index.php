@@ -7,8 +7,8 @@
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        <p>Hoi!!!!!</p>
         
-        <p>Hoi dennis, hoe ist jonguh</p>
+        
+        <p>Hoi dennis</p>
     </body>
 </html>
