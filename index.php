@@ -7,6 +7,6 @@
         <link rel="stylesheet" href="main.css">
     </head>
     <body>
-        <p>Hoi, hoe gaat het</p>
+        <p>Hoi, hoe is het</p>
     </body>
 </html>
